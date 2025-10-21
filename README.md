@@ -49,7 +49,7 @@ If a **header pixel** is not at **full transparency**, it will be ignored and de
     As an example, you can loot at the particle at position `2`, `2` in the provided files, that is set to maximum scale
 
 ## Compatability
-- This pack **requires minecraft 1.20.5** or higher _(Tested in 23w14a)_
+- This pack **requires minecraft 1.21.6** or higher 
 - This pack is **incompatible** with **modded shaders**
 - This pack **should work** with most other mods (Like Optifine/Sodium)
 - **Compatible with other vanilla shaders** that dont replace the `particle.vsh` file
